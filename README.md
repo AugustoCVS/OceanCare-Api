@@ -33,6 +33,8 @@ O usuário poderá acompanhar um ranking com todas as pessoas que estão cadastr
 * 3 - Cole este link: https://github.com/AugustoCVS/OceanCare-Api.git
 * 4 - Clique em Clone
 * 5 - Ao iniciar o projeto irá abrir o swagger, no qual o usuário poderá realizar todos os testes necessários
+* 6 - Basta criar uma conta, fazer o login para ver qual é o seu Id (vai estar no retorno da requisição), que você irá precisar passar em diversas requisições e começar a testar!
+* 7 - Em casos de dúvidas, conferir o pdf Rotas com todos os endpoints, descrição das rotas, parâmetros e respostas
 
 ## Endpoins:
 
