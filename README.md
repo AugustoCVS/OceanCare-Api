@@ -28,11 +28,11 @@ O usuário poderá acompanhar um ranking com todas as pessoas que estão cadastr
 
 ## Passo a passo para rodar o projeto: 
 
-1 - Abra o Visual Studio
-2 - Clique em Clone a repository
-3 - Cole este link: https://github.com/AugustoCVS/OceanCare-Api.git
-4 - Clique em Clone
-5 - Ao iniciar o projeto irá abrir o swagger, no qual o usuário poderá realizar todos os testes necessários
+* 1 - Abra o Visual Studio
+* 2 - Clique em Clone a repository
+* 3 - Cole este link: https://github.com/AugustoCVS/OceanCare-Api.git
+* 4 - Clique em Clone
+* 5 - Ao iniciar o projeto irá abrir o swagger, no qual o usuário poderá realizar todos os testes necessários
 
 ## Endpoins:
 
