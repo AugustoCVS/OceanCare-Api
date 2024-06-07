@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OceanCareChat", "OceanCareChat\OceanCareChat.csproj", "{F00F5915-13B3-49EA-971A-AC3535DE00CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00F5915-13B3-49EA-971A-AC3535DE00CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00F5915-13B3-49EA-971A-AC3535DE00CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00F5915-13B3-49EA-971A-AC3535DE00CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00F5915-13B3-49EA-971A-AC3535DE00CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982B80B3-9DF8-453A-87DD-934EC7C0B876}
+	EndGlobalSection
+EndGlobal
